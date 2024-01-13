@@ -1,2 +1,3 @@
-#dotfiles-lazy
-config files setup 
+# Dotfile-lazy
+
+CONFIG SETUP 
